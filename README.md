@@ -69,8 +69,8 @@ export WINRM_PASS="P@ssw0rd123"
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Yuri08loveElaina/elaina-ultimate-chain-.git
-cd elaina-ultimate-chain-
+git clone https://github.com/Yuri08loveElaina/elaina-ultimate-chain.git
+cd elaina-ultimate-chain
 ```
 
 ### 2. Setup the environment (Linux)
